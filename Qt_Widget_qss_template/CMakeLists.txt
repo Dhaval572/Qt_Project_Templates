@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.19)
-project(Qt_widgets LANGUAGES CXX)
+project(Qt_Widget_qss_template LANGUAGES CXX)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 set(CMAKE_AUTORCC ON)
